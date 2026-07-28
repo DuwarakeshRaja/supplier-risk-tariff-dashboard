@@ -1,0 +1,66 @@
+supplier_id,supplier_name,country,category,annual_spend_usd,tariff_rate,lead_time_days,single_source
+S039,Horizon Technologies,Mexico,Raw Metals,2936000.0,0.2499,60,1
+S056,Summit Systems,Germany,Industrial Equipment,617200.0,0.16,108,1
+S004,Pacific Components,Japan,Automotive Parts,481900.0,0.1418,15,0
+S058,Redwood Manufacturing,Taiwan,Raw Metals,383300.0,0.2134,65,0
+S032,Union Materials,Canada,Textiles,367300.0,0.0982,94,0
+S054,Nova Supply Co.,South Korea,Textiles,310200.0,0.1452,116,0
+S061,Atlas Manufacturing,South Korea,Textiles,293300.0,0.1478,30,0
+S002,Meridian Components,Vietnam,Automotive Parts,254400.0,0.1927,94,0
+S019,Vanguard Partners,Malaysia,Logistics Services,237000.0,0.1888,26,0
+S012,Trident Partners,Bangladesh,Packaging Materials,234300.0,0.2045,60,0
+S005,Titan Technologies,China,Chemicals,217200.0,0.3084,117,1
+S007,Solstice Manufacturing,Germany,Textiles,186800.0,0.1593,78,1
+S036,Element Industries,China,Logistics Services,163400.0,0.2911,27,0
+S037,Falcon Technologies,China,Raw Metals,159000.0,0.3064,54,0
+S045,Zenith Supply Co.,Malaysia,Textiles,155700.0,0.1695,63,0
+S053,Vantage Group,Germany,Industrial Equipment,152600.0,0.1503,101,1
+S020,Vertex Components,South Korea,Electronics Components,147300.0,0.1529,45,0
+S034,Pioneer Manufacturing,Vietnam,Industrial Equipment,141400.0,0.2146,45,0
+S041,Frontier Holdings,Vietnam,Semiconductors,131900.0,0.2034,84,0
+S064,Zenith Industries,Germany,Raw Metals,126400.0,0.1392,48,0
+S023,Trident Technologies,Canada,Office Supplies,112300.0,0.0959,99,0
+S021,Element Materials,Germany,Logistics Services,110800.0,0.1631,102,0
+S006,Trident Holdings,Canada,Raw Metals,106300.0,0.091,32,1
+S009,Argon Industries,China,Raw Metals,102300.0,0.2984,113,1
+S003,Crestline Systems,Thailand,Electronics Components,97800.0,0.2113,59,1
+S043,Argon Components,Japan,Chemicals,95900.0,0.1509,106,0
+S065,Vertex Group,South Korea,Office Supplies,95800.0,0.1509,47,0
+S029,Frontier Systems,China,Automotive Parts,95000.0,0.2863,79,1
+S016,Redwood Materials,Mexico,Logistics Services,94700.0,0.2517,104,0
+S028,Cascade Materials,China,Automotive Parts,91000.0,0.2878,96,0
+S033,Nova Partners,Mexico,Industrial Equipment,83800.0,0.2462,78,0
+S047,Wavelength Manufacturing,Vietnam,Chemicals,81900.0,0.1916,41,1
+S049,Harbor Group,Japan,Office Supplies,80300.0,0.1412,40,0
+S008,Wavelength Technologies,Germany,Electronics Components,78700.0,0.1538,34,1
+S018,Yield Systems,China,Packaging Materials,76200.0,0.3016,85,1
+S040,Frontier Supply Co.,South Korea,Electronics Components,75600.0,0.1484,27,0
+S060,Ridgeline Technologies,China,Raw Metals,75300.0,0.293,52,0
+S051,Crestline Materials,China,Office Supplies,72100.0,0.3092,94,0
+S055,Beacon Partners,Japan,Industrial Equipment,70400.0,0.1467,26,0
+S048,Vertex Partners,Mexico,Semiconductors,67600.0,0.2378,43,0
+S001,Keystone Technologies,Germany,Automotive Parts,66300.0,0.1403,24,1
+S050,Nova Systems,China,Automotive Parts,64700.0,0.2967,120,0
+S046,Silverline Manufacturing,Malaysia,Industrial Equipment,64300.0,0.1895,71,1
+S024,Ironclad Manufacturing,Indonesia,Packaging Materials,63800.0,0.2011,64,1
+S017,Sterling Systems,Taiwan,Electronics Components,61900.0,0.2158,16,0
+S026,Summit Materials,China,Textiles,61200.0,0.3154,50,0
+S010,Vantage Systems,India,Industrial Equipment,60300.0,0.1496,93,1
+S059,Cobalt Holdings,China,Packaging Materials,59600.0,0.2985,78,0
+S035,Lumen Manufacturing,India,Industrial Equipment,59000.0,0.1389,58,0
+S015,Ironclad Holdings,India,Office Supplies,57100.0,0.1372,98,0
+S030,Solstice Systems,Japan,Chemicals,56400.0,0.1665,113,0
+S044,Lumen Supply Co.,Mexico,Chemicals,56100.0,0.2564,44,1
+S042,Orbit Systems,Malaysia,Electronics Components,54300.0,0.2041,117,0
+S011,Titan Industries,Vietnam,Office Supplies,53300.0,0.1935,100,0
+S063,Pacific Technologies,Taiwan,Textiles,52100.0,0.2018,102,0
+S014,Wavelength Partners,Malaysia,Industrial Equipment,52000.0,0.1777,82,1
+S022,Meridian Industries,Vietnam,Packaging Materials,51300.0,0.2022,41,0
+S057,Pioneer Partners,India,Semiconductors,51200.0,0.1554,22,0
+S013,Element Manufacturing,South Korea,Packaging Materials,50100.0,0.1455,64,0
+S062,Falcon Materials,India,Textiles,49600.0,0.1524,35,0
+S025,Nova Materials,Germany,Industrial Equipment,49500.0,0.1543,39,1
+S038,Frontier Group,India,Semiconductors,48300.0,0.1461,113,0
+S027,Falcon Group,India,Semiconductors,47500.0,0.1518,71,1
+S031,Trident Group,Germany,Office Supplies,46600.0,0.1672,106,1
+S052,Anchor Systems,China,Semiconductors,46000.0,0.2867,104,1
