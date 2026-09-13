@@ -9,6 +9,8 @@ single-source supplier.
 Built to extend hands-on SAP/supply-chain experience with a SQL + Python
 analytics workflow.
 
+**[Live dashboard](https://duwarakeshraja.github.io/supplier-risk-tariff-dashboard/dashboard/supplier_risk_dashboard.html)** — interactive, no download needed (enable GitHub Pages in repo Settings once to activate this link).
+
 ## Problem
 
 Under the current U.S. tariff environment, sourcing teams need to know, at a
